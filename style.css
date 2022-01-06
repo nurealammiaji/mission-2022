@@ -7,6 +7,7 @@ h1{
 }
 h2{
     font-size: 250%;
+    font-family: 'Poppins', sans-serif;
 }
 #h2-haedding{
     text-align: center;
@@ -133,6 +134,7 @@ footer{
 }
 #footer{
     color: white;
+    font-family: 'El Messiri', sans-serif;
 }
 #span-footer{
     color: tomato;
