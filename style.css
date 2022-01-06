@@ -94,3 +94,22 @@ p{
     padding-top: 20px;
     padding-left: 200px;
 }
+.flexible-section-four{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    margin-right: 250px;
+}
+.flexible-section-four img{
+    width: 50%;
+    padding-left: 200px;
+}
+#div-corona{
+    padding-top: 50px;
+}
+#footer-style{
+    text-align: center;
+    background-color: black;
+    color: lightslategray;
+    padding: 5px;
+}
