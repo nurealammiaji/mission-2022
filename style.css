@@ -1,0 +1,76 @@
+span{
+    color: orange;
+}
+h1{
+    font-family: 'El Messiri', sans-serif;
+    font-size: 300%;
+}
+h2{
+    font-size: 250%;
+}
+#h2-haedding{
+    text-align: center;
+}
+#div-border{
+    border-left: 5px solid tomato;
+}
+#p-padding{
+    padding-top: 10px;
+}
+.flexible-section-one{
+    display: flex;
+    padding-left: 200px;
+    margin-top: 90px;
+    margin-bottom: 80px;
+}
+.flexible-section-one img{
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 70px;
+}
+.button-style{
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 2% 4%;
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+}
+p{
+    text-align: justify;
+    padding-bottom: 10px;
+}
+.flexible-section-two{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px
+}
+.flexible-section-two img{
+    width: 40%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#div-style-one{
+    background-image: linear-gradient(lightblue, lightblue);
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#div-style-two{
+    background-image: linear-gradient(lightpink, lightpink);
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#div-style-three{
+    background-image: linear-gradient(lightyellow, lightyellow);
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
