@@ -21,11 +21,12 @@ h2{
 .flexible-section-one{
     display: flex;
     padding-left: 200px;
+    padding-right: 80px;
     margin-top: 90px;
     margin-bottom: 80px;
 }
 .flexible-section-one img{
-    width: 50%;
+    width: 80%;
     padding-top: 20px;
     padding-left: 70px;
 }
@@ -106,6 +107,17 @@ p{
 .flexible-section-four img{
     width: 50%;
     padding-left: 200px;
+}
+.flexible-section-five{
+    display: flex;
+    padding-left: 200px;
+    margin-top: 90px;
+    margin-bottom: 150px;
+}
+.flexible-section-five img{
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 70px;
 }
 #div-corona{
     padding-top: 50px;
