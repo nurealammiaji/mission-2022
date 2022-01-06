@@ -13,6 +13,7 @@ h2{
 }
 #div-border{
     border-left: 5px solid tomato;
+    padding: 10px;
 }
 #p-padding{
     padding-top: 10px;
@@ -73,4 +74,23 @@ p{
     padding-left: 30px;
     margin-left: 10px;
     margin-right: 10px;
+}
+.button-style{
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 2% 4%;
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+}
+.flexible-section-three{
+    display: flex;
+    margin-top: 90px;
+    margin-bottom: 80px;
+    margin-right: 320px;
+}
+.flexible-section-three img{
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 200px;
 }
