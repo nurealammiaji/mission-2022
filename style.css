@@ -107,9 +107,18 @@ p{
 #div-corona{
     padding-top: 50px;
 }
+footer{
+    padding-bottom: 10px;
+}
 #footer-style{
     text-align: center;
     background-color: black;
-    color: lightslategray;
+    color: gray;
     padding: 5px;
+}
+#footer{
+    color: white;
+}
+#span-footer{
+    color: tomato;
 }
