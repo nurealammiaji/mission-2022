@@ -90,14 +90,18 @@ p{
 }
 .flexible-section-three{
     display: flex;
-    margin-top: 90px;
+    margin-top: 100px;
     margin-bottom: 80px;
     margin-right: 320px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 27%;
+    padding-top: 10px;
 }
 .flexible-section-three img{
-    width: 50%;
-    padding-top: 20px;
-    padding-left: 200px;
+    width: 60%;
+    padding-bottom: 10px;
+    padding-left: 150px;
 }
 .flexible-section-four{
     display: flex;
