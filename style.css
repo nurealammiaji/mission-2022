@@ -40,6 +40,8 @@ h2{
 p{
     text-align: justify;
     padding-bottom: 10px;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .flexible-section-two{
     display: flex;
